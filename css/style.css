@@ -455,6 +455,8 @@ textarea.input {
 
 .header-logo .logo img {
   display: block;
+
+
 }
 
 /*----------------------------*\
@@ -2146,11 +2148,14 @@ textarea.input {
     margin-top: 5px;
   }
   .header-logo {
+
     float: none;
     text-align: center;
   }
   .header-logo .logo {
     display: inline-block;
+
+
   }
   #product-imgs {
     margin-bottom: 60px;

@@ -34,15 +34,19 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+
 </head>
+
 <body>
+
 <!-- HEADER -->
 <header>
+
     <!-- TOP HEADER -->
     <div id="top-header">
         <div class="container">
             <ul class="header-links pull-left">
-                <li><a href="#"><i class="fa fa-envelope-o"></i> rugbystore@gmail.com</a></li>
+                <li><a href="#"><i class="fa fa-envelope-o"></i> info.rugbyshop@gmail.com</a></li>
 
             </ul>
             <ul class="header-links pull-right">
@@ -51,41 +55,33 @@
             </ul>
         </div>
     </div>
+
+
     <!-- /TOP HEADER -->
 
     <!-- MAIN HEADER -->
     <div id="header">
+
         <!-- container -->
         <div class="container">
             <!-- row -->
-            <div class="row">
+            <div class="row" >
                 <!-- LOGO -->
-                <div class="col-md-3">
-                    <div class="header-logo">
-                        <a href="index.html" class="logo">
+                <div class="col-md-8 navbar-right" >
+                    <div class="header-logo ">
+                        <a href="index.html" class="logo ">
                             <img src="./img/rs03.png" alt="">
                         </a>
                     </div>
                 </div>
+
                 <!-- /LOGO -->
 
                 <!-- SEARCH BAR -->
-                <div class="col-md-6">
-                    <div class="header-search">
-                        <form>
-                            <select class="input-select">
-                                <option value="0">Kategoriler</option>
-                                <option value="1">Category 01</option>
-                                <option value="1">Category 02</option>
-                            </select>
-                            <input class="input" placeholder="Urun Arama">
-                            <button class="search-btn">Ara</button>
-                        </form>
-                    </div>
-                </div>
+
 
                 <!-- ACCOUNT -->
-                <div class="col-md-3 clearfix">
+                <div class="col-md-4 clearfix navbar-right">
                     <div class="header-ctn">
                         <!-- Wishlist -->
                         <div>
@@ -168,22 +164,78 @@
         <div id="responsive-nav">
             <!-- NAV -->
             <ul class="main-nav nav navbar-nav">
-                <li class="active"><a href="#">Ana Sayfa</a></li>
-                <li><a href="#">Indirimdekiler</a></li>
-
-                <ul class="main-nav nav navbar-nav dropdown">
-                    <li><a>Kategoriler </a></li>
-                    <ul class=" dropdown-content">
-                        <p>Hello World!</p>
+                <li class="active"><a href="index.html">Ana Sayfa</a></li>
+                <li class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="#">Indirimdekiler
+                    <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">Erkek</a></li>
+                    <li><a href="#">Kadin</a></li>
+                    <li><a href="#">Cocuk</a></li>
+                    <li><a href="#">Aksesuarlar</a></li>
+                </ul>
+            </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Erkek
+                        <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#">Tshirt</a></li>
+                        <li><a href="#">Pantolon</a></li>
+                        <li><a href="#">Sweatshirt</a></li>
+                        <li><a href="#">Gomlek</a></li>
                     </ul>
+                </li>
+
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Kadin
+                        <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#">Tshirt</a></li>
+                        <li><a href="#">Pantolon</a></li>
+                        <li><a href="#">Gomlek</a></li>
+                        <li><a href="#">Elbise</a></li>
+                    </ul>
+                </li>
+
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Cocuk
+                        <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#">Tshirt</a></li>
+                        <li><a href="#">Pantolon</a></li>
+                    </ul>
+                </li>
+
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Aksesuarlar
+                        <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#">Taki</a></li>
+                        <li><a href="#">Parfum</a></li>
+                        <li><a href="#">Kemer</a></li>
+                        <li><a href="#">Gozluk</a></li>
+                    </ul>
+                </li>
+
+
+            <!-- /NAV -->
 
             </ul>
-            <!-- /NAV -->
-        </div>
         <!-- /responsive-nav -->
     </div>
+        <div class="col-md-6 navbar-right" >
+            <div class="header-search">
+                <form>
+
+                    <input class="input" placeholder="Urun Arama">
+                    <button class="search-btn">Ara</button>
+                </form>
+            </div>
+        </div>
+        </div>
     <!-- /container -->
 </nav>
+
 <!-- /NAVIGATION -->
 
 <div id="bottom-footer" class="section">
