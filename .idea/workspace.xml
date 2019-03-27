@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ee6bd5a-9748-48e2-b8e3-36945a14e5a5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin panel/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin panel/catalog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/cart.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -71,20 +68,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cart.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="cart.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cart.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="362" column="77" selection-start-line="362" selection-start-column="77" selection-end-line="362" selection-end-column="77" />
+            <state relative-caret-position="173">
+              <caret line="336" column="46" selection-start-line="336" selection-start-column="46" selection-end-line="336" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fav.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fav.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fav.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="340" column="88" selection-start-line="340" selection-start-column="88" selection-end-line="340" selection-end-column="88" />
+            <state relative-caret-position="174">
+              <caret line="336" column="46" lean-forward="true" selection-start-line="334" selection-start-column="40" selection-end-line="336" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -159,8 +156,8 @@
         <option value="$PROJECT_DIR$/product.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/admin panel/catalog.html" />
-        <option value="$PROJECT_DIR$/cart.html" />
         <option value="$PROJECT_DIR$/fav.html" />
+        <option value="$PROJECT_DIR$/cart.html" />
       </list>
     </option>
   </component>
@@ -283,12 +280,12 @@
       <workItem from="1552860645717" duration="19440000" />
       <workItem from="1553083976492" duration="7092000" />
       <workItem from="1553203408218" duration="14707000" />
-      <workItem from="1553301574705" duration="8163000" />
+      <workItem from="1553301574705" duration="8456000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62829000" />
+    <option name="totallyTimeSpent" value="63122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -643,13 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cart.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="362" column="77" selection-start-line="362" selection-start-column="77" selection-end-line="362" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin panel/catalog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21301">
@@ -703,8 +693,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="340" column="88" selection-start-line="340" selection-start-column="88" selection-end-line="340" selection-end-column="88" />
+        <state relative-caret-position="174">
+          <caret line="336" column="46" lean-forward="true" selection-start-line="334" selection-start-column="40" selection-end-line="336" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="336" column="46" selection-start-line="336" selection-start-column="46" selection-end-line="336" selection-end-column="46" />
         </state>
       </provider>
     </entry>
