@@ -5812,4 +5812,46 @@ p.product_descr {
 margin-top:0;
 }
 }
+
+.btn-10 input[type="submit"] {
+    background: #B52E31;
+    padding: 10px 20px;
+    color: #fff;
+    font-size: 0.85em;
+    font-weight: 400;
+    display: block;
+    outline: none;
+    border: none;
+    width: 100%;
+    text-transform: uppercase;
+}
+.btn-10 input[type="submit"]:hover{
+    background:lightcoral;
+}
+.btn-10 {
+
+    float: left ;
+}
+.btn-can input[type="submit"] {
+    background: black;
+    padding: 10px 20px;
+    color: #fff;
+    font-size: 0.85em;
+    font-weight: 400;
+    display: block;
+    outline: none;
+    border: none;
+    width: 100%;
+    text-transform: uppercase;
+}
+.btn-can input[type="submit"]:hover{
+    background:lightcoral;
+}
+.btn-can {
+
+    float: left ;
+}
+
+
+
 /***responsive***/
