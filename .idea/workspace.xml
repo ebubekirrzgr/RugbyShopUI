@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ee6bd5a-9748-48e2-b8e3-36945a14e5a5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/admin panel/discount.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin panel/product_discount.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin panel/product_discount.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,8 +46,8 @@
       <file leaf-file-name="product_discount.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/admin panel/product_discount.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="225" column="99" selection-start-line="225" selection-start-column="99" selection-end-line="225" selection-end-column="99" />
+            <state relative-caret-position="284">
+              <caret line="219" column="92" selection-start-line="219" selection-start-column="92" selection-end-line="219" selection-end-column="92" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -239,12 +239,12 @@
       <workItem from="1553083976492" duration="7092000" />
       <workItem from="1553203408218" duration="14707000" />
       <workItem from="1553301574705" duration="34099000" />
-      <workItem from="1554124477150" duration="9829000" />
+      <workItem from="1554124477150" duration="9940000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98594000" />
+    <option name="totallyTimeSpent" value="98705000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -589,8 +589,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin panel/product_discount.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="225" column="99" selection-start-line="225" selection-start-column="99" selection-end-line="225" selection-end-column="99" />
+        <state relative-caret-position="284">
+          <caret line="219" column="92" selection-start-line="219" selection-start-column="92" selection-end-line="219" selection-end-column="92" />
           <folding>
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
